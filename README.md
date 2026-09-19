@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="abdul_raouf_github_profile.gif" alt="Abdul Raouf - Cybersecurity & Coding" width="700"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVicGtpYzk2ZmgwbTFqcGRrbXhsN3U3YWlxdTZkM2NscjlsamljcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lptIayuGHV9Utu3iTv/giphy.gif"/>
 
 </div>
 

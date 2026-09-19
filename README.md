@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="abdul_raouf_github_profile.gif" alt="Abdul Raouf - Cybersecurity & Coding" width="700"/>
 
 </div>
 
@@ -79,13 +79,3 @@ I'm **Abdul Raouf**, a student passionate about **Cybersecurity, Python, and Sof
 
 </div>
 
-
-</div>
-
-<br />
-
-<!-- About Me Section -->
-## 🚀 About Me
-
-- 🎓 *Computer Science Student* passionate about technology and innovation
-- 🎯 *Currently Learning Full-Stack Development*
